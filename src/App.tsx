@@ -28,7 +28,7 @@ function App() {
       <br />
       <hr />
       <Button color="danger" onClick={() => setAlertVisibility(true)}>
-        ปุ่ม
+        ปุ่มกด
       </Button>
     </div>
   );
