@@ -28,7 +28,7 @@ function App() {
       <br />
       <hr />
       <Button color="danger" onClick={() => setAlertVisibility(true)}>
-        Mu button
+        ปุ่มกด
       </Button>
     </div>
   );
